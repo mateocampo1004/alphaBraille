@@ -1,8 +1,8 @@
 // SupervisionScreen.tsx
 import React from 'react';
-import Header from './Header';
-import Sidebar from './Sidebar';
-import MainContent from './MainContent';
+import Header from './header';
+import Sidebar from './sidebar';
+import MainContent from './maincontent';
 
 const SupervisionScreen: React.FC = () => {
   return (
@@ -17,9 +17,3 @@ const SupervisionScreen: React.FC = () => {
 };
 
 export default SupervisionScreen;
-
-ñ4{
-  ñ tg bnm jkl{
-    
-  }
-}
