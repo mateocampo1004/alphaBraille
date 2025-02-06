@@ -31,7 +31,7 @@ const LoginPage: React.FC = () => {
     }
 
     // Si es correcto, redirigir a la pantalla del supervisor
-    navigate("/dashboard");
+    navigate("/supervisionScreen");
   };
 
   return (
